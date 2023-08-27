@@ -1,1 +1,1 @@
-# This was the second project I finished on React.js and Tailwindcss which is essentially a simple weather web-based application that provides real-time updates from OpenWeatherMap API - Project link attached in the "About" section.
+# This was the second project I finished on React.js and Tailwindcss which is essentially a simple weather web-based application that provides real-time updates from OpenWeatherMap API - The Pproject link is attached in the "About" section.
